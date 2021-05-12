@@ -1,0 +1,19 @@
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <h1>
+            <div class="titulo">Personagens</div>
+        </h1>
+        <div class="grid">
+            <ng-container *ngFor="let personagem of personagensList">
+                <div class="card" style="width: 18rem;">
+                    <a href="#"><img src="{{personagem.img.perfil}}" class="card-img-top" alt="{{personagem.nome}}"></a>
+                    <div class="card-body" style="width: 18rem;">
+                        <h1 class="card-title">{{personagem.nome}}</h1>
+                        <p class="card-text">{{personagem.informacoes.profissao}}</p>
+                        <a href="#" class="btn btn-primary">+info</a>
+                    </div>
+                </div>
+            </ng-container>
+        </div>
+    </div>
+</div>

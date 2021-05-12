@@ -1,0 +1,22 @@
+body,
+html {
+    background-color: rgb(243, 211, 151);
+}
+
+.container-fluid {
+    padding: 20px;
+    padding-left: 100px;
+}
+
+.grid {
+    padding-top: 20px;
+    padding: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-bottom: 10%;
+}
+
+.titulo {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}

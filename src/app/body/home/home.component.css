@@ -1,0 +1,58 @@
+p {
+    background-color: rgb(0, 0, 0, 0.5);
+    font-size: 20px;
+    padding: 5px;
+}
+
+h1 {
+    font-family: fantasy;
+    color: white;
+}
+
+.container-fluid {
+    padding: 20px;
+    padding-left: 75px;
+}
+
+.titulo {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    color: black;
+}
+
+table {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: 1;
+    width: 80.3%;
+}
+
+td {
+    padding: 20px;
+    text-align: center;
+    vertical-align: center;
+    z-index: 1;
+    border-radius: 10px;
+}
+
+#menuAang td {
+    padding: 75px;
+    width: 100px;
+    color: royalblue;
+}
+
+#menuAang td a:hover {
+    top: -2px;
+    box-shadow: 0 5px 5px #666;
+    opacity: 80%;
+}
+
+img {
+    border-radius: 10px;
+}
+
+img:hover {
+    top: -2px;
+    box-shadow: 0 5px 5px #666;
+    opacity: 80%;
+}

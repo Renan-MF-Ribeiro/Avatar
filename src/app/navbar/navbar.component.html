@@ -1,0 +1,121 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+<nav class="navbar navbar-expand-lg navbar-light" [ngStyle]="{'background-color': colorTopo}" style=" margin-top:140px; padding-left: 200px; padding: -10px; font-family:fantasy;">
+    <div class="container-fluid">
+        <a class="navbar-brand" routerLink="home"><img src="assets/Avatarlogobranco.png" class="img-fluid" width="250" id="logo"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="home">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="historia">Historia</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Serie</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Quadrinhos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Outras mídias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="personagens">Personagens</a>
+                </li>
+            </ul>
+            <span class="navbar-text">
+                <a class="nav-link" routerLink="{{personaTopo.nascionalidade}}">
+                <div *ngIf=imgTopo>
+                <img src="{{personaTopo.img.etnia}}"  width="300" id="personaTopoEtnia" class="img-fluid" alt="{{personaTopo.nascionalidade}}" style="top: -175px; left: 0px ;" data-bs-toggle="tooltip" data-bs-placement="top" title="{{personaTopo.nascionalidade}}">
+                </div>
+                <div *ngIf=!imgTopo>
+                <img src="{{personaTopo.img.etnia}}" width="130" id="personaTopoEtnia" class="img-fluid" alt="{{personaTopo.nascionalidade}}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{personaTopo.nascionalidade}}" >
+                 </div>
+                </a>
+                <a class="nav-link" routerLink="{{personaTopo.nome}}"> 
+              <img src="{{personaTopo.img.topo}}" width="230" id="personaTopo" class="img-fluid" alt="{{personaTopo.nome}}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{personaTopo.nome}}"></a>
+              <div class="container-fluid" id="fraseTopo" style="text-align: center; vertical-align: center;">
+                <p style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;">{{personaTopo.frase}}</p>
+                <p>{{personaTopo.momentoFrase}}</p>
+            </div>
+            </span>
+        </div>
+    </div>
+</nav>
+
+
+
+
+<div *ngIf=sidenavMenu>
+    <div id="mySidenav" class="sidenav" [ngStyle]="{'background-color': colorTopo}">
+        <a class="closebtn" (click)="sidenavMenu =! sidenavMenu" style="width: var(--sidenav);">&times;</a>
+        <a>Nomadês do Ar</a>
+        <div class="grid">
+            <div *ngFor="let nomades of nomadesAr">
+                <a href="#">{{nomades.nome}}</a>
+            </div>
+        </div>
+        <hr>
+        <a>Tribo da Agua do Sul</a>
+        <div class="grid">
+            <div *ngFor="let triboSul of triboAguaSul">
+                <a href="#">{{triboSul.nome}}</a>
+            </div>
+        </div>
+        <hr>
+        <a>Tribo da Agua do Norte</a>
+        <div class="grid">
+            <div *ngFor="let triboNorte of triboAguaNorte">
+                <a href="#">{{triboNorte.nome}}</a>
+            </div>
+        </div>
+        <hr>
+        <a>Nação do Fogo</a>
+        <div class="grid">
+            <div *ngFor="let nFogo of nacaoFogo">
+                <a href="#">{{nFogo.nome}}</a>
+            </div>
+        </div>
+        <hr>
+        <a>Reino da Terra</a>
+        <div class="grid">
+            <div *ngFor="let rTerra of reinoTerra">
+                <a href="#">{{rTerra.nome}}</a>
+            </div>
+        </div>
+        <hr>
+        <a>Cidade República</a>
+        <div class="grid">
+            <div *ngFor="let cRepublica of cidadeRepublica">
+                <a href="#">{{cRepublica.nome}}</a>
+            </div>
+        </div>
+        <hr>
+    </div>
+</div>
+
+
+<div *ngIf="perfilFull">
+    <div *ngIf="perfil">
+        <div class="card mb-3" style="max-width: 540px; border-radius: 50px;" id="linkedin">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="assets/linkedin.jpg" alt="..." width="110%" style="border-radius: 50%;">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <button type="button" class="btn-close" aria-label="Close" style="right: 15px; position: fixed;" (click)="perfilFull =! perfilFull"></button>
+                        <div class="card-title">LinkedIn</div>
+                        <div class="card-text">mmm</div>
+                        <div class="card-text"><small class="text-muted">Last updated 3 mins ago</small></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
