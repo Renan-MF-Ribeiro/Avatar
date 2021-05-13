@@ -35,13 +35,13 @@ td {
     border-radius: 10px;
 }
 
-#menuAang td {
+#menu td {
     padding: 75px;
     width: 100px;
     color: royalblue;
 }
 
-#menuAang td a:hover {
+#menu td a:hover {
     top: -2px;
     box-shadow: 0 5px 5px #666;
     opacity: 80%;

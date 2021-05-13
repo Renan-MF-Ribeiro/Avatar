@@ -25,6 +25,7 @@ import { HistoriaComponent } from './body/historia/historia.component';
 import { AtlaComponent } from './body/historia/atla/atla.component';
 import { TlkComponent } from './body/historia/tlk/tlk.component';
 import { RodapeComponent } from './rodape/rodape.component';
+import { HistoriaModelComponent } from './body/historia/historia-model/historia-model.component';
 
 
 @NgModule({
@@ -40,7 +41,8 @@ import { RodapeComponent } from './rodape/rodape.component';
     HistoriaComponent,
     AtlaComponent,
     TlkComponent,
-    RodapeComponent
+    RodapeComponent,
+    HistoriaModelComponent
   ],
   imports: [
     BrowserModule,
