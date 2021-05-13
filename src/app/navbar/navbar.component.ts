@@ -1,4 +1,5 @@
 import { Component, HostListener, OnInit } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
 import { element } from 'protractor';
 import { Personagens } from '../database/infos/personagens';
 
@@ -98,12 +99,14 @@ export class NavbarComponent implements OnInit {
   }
 
 
-  constructor(private personagem: Personagens) { }
+  constructor(private personagem: Personagens, private activatedRoute: ActivatedRoute, private router: Router) { }
 
   ngOnInit() {
     this.persona()
     this.personagensGrupo()
-    console.log(window.scrollY)
+    
+    const par = this.activatedRoute;
+        
   }
 
 }

@@ -3,7 +3,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light" [ngStyle]="{'background-color': colorTopo}" style=" margin-top:140px; padding-left: 200px; padding: -10px; font-family:fantasy;">
     <div class="container-fluid">
-        <a class="navbar-brand" routerLink="home"><img src="assets/Avatarlogobranco.png" class="img-fluid" width="250" id="logo"></a>
+        <a class="navbar-brand" href="home"><img src="assets/Avatarlogobranco.png" class="img-fluid" width="250" id="logo"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -29,7 +29,7 @@
                 </li>
             </ul>
             <span class="navbar-text">
-                <a class="nav-link" routerLink="{{personaTopo.nascionalidade}}">
+                <a class="nav-link" href="{{personaTopo.nascionalidade}}">
                 <div *ngIf=imgTopo>
                 <img src="{{personaTopo.img.etnia}}"  width="300" id="personaTopoEtnia" class="img-fluid" alt="{{personaTopo.nascionalidade}}" style="top: -175px; left: 0px ;" data-bs-toggle="tooltip" data-bs-placement="top" title="{{personaTopo.nascionalidade}}">
                 </div>
@@ -37,7 +37,7 @@
                 <img src="{{personaTopo.img.etnia}}" width="130" id="personaTopoEtnia" class="img-fluid" alt="{{personaTopo.nascionalidade}}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{personaTopo.nascionalidade}}" >
                  </div>
                 </a>
-                <a class="nav-link" routerLink="{{personaTopo.nome}}"> 
+                <a class="nav-link" href="{{personaTopo.nome}}"> 
               <img src="{{personaTopo.img.topo}}" width="230" id="personaTopo" class="img-fluid" alt="{{personaTopo.nome}}" data-bs-toggle="tooltip" data-bs-placement="top" title="{{personaTopo.nome}}"></a>
               <div class="container-fluid" id="fraseTopo" style="text-align: center; vertical-align: center;">
                 <p style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;">{{personaTopo.frase}}</p>

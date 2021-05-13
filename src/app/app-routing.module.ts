@@ -16,7 +16,7 @@ const routes: Routes = [
     {path:'personagens', component: PersonagemComponent},
     {path:'home', component: HomeComponent},
     {path:'historia', component: HistoriaComponent, children:[
-      {path:'', component: HistoriaModelComponent},
+      {path:'', component: TlkComponent},
       {path:'avataraang', component: AtlaComponent},
       {path:'avatarkorra',component: TlkComponent}
     ]}

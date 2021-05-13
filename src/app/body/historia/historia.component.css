@@ -1,4 +1,24 @@
 #menu-escolha {
-    border-color: black;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 800px;
     width: 410px;
+    right: 0;
+}
+
+.card {
+    background: transparent;
+    border: transparent;
+}
+
+.accordion-item {
+    background-color: #FFF8DC;
+    width: 80%;
+}
+
+#principal {
+    padding: 20px;
+    padding-left: 75px;
+    margin: auto;
+    margin-right: 0;
 }
