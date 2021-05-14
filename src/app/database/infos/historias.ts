@@ -3,7 +3,7 @@ import { Historia } from "../models/historia.model";
 export class Historias{
     historiaList: Array<Historia> = [
         {
-            id:'mundoavatar',
+            id:'#mundoavatar',
             titulo: 'História do Mundo do Avatar',
             subtitulo:"",
             menu:[
@@ -624,7 +624,7 @@ export class Historias{
 
         },
         {
-            id:'avatarkorra',
+            id:'#avatarkorra',
             titulo: 'História do Mundo do Avatar',
             subtitulo:"",
             menu:[
@@ -704,7 +704,7 @@ export class Historias{
           </head>
             
             <div data-spy="scroll" data-target="#navbar-example3" data-offset="0">
-            <h1 id="História do Mundo do Avatar"> História do Mundo do Avatar</h1>
+            <h1 id="avatarkorra#História do Mundo do Avatar"> História do Mundo do Avatar</h1>
             <p>O mundo tem uma extensa história que remonta a mais de vinte mil anos. Este artigo lista eventos históricos em uma linha do tempo. A história deste mundo pode ser dividida em duas partes, a época anterior ao Avatar e a época do Avatar.
                 Antes da criação do Avatar, as tartarugas-leões serviam como protetores da humanidade, permitindo aos humanos erguer cidades sobre suas carapaças. Sempre que os habitantes de suas cidades se aventuravam na Selva Espiritual, as
                 criaturas conferiam ao povo a capacidade de dobrar o elemento ao qual a tartaruga estava associada; o poder deveria ser devolvido após sua reentrada na cidade.</p>

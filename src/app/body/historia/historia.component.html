@@ -46,4 +46,25 @@
         </div>
     </div>
 </div>
-<router-outlet></router-outlet>
+<div class="container-fluid" id="principal">
+    <h1>
+        <div class="titulo">Historia</div>
+    </h1>
+    <div class="row">
+        <div class="col-1" style="margin-left:-75px ;">
+            <nav id="navbar-example3" class="navbar" name="menu-fixo">
+                <nav class="nav nav-pills flex-column">
+                    <div *ngFor="let historia of historia.menu">
+                        <a class=" nav-link " href="historia{{historiaHash}}#{{historia}} ">{{historia}}</a>
+                    </div>
+                </nav>
+            </nav>
+        </div>
+
+        <div class="col-7 " style="margin-left: 75px; ">
+            <div class="container-fluid " id="historia">
+
+            </div>
+        </div>
+    </div>
+</div>
