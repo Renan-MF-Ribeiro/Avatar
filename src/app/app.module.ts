@@ -22,8 +22,6 @@ import { HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './body/home/home.component';
 import { Pag404Component } from './body/pag404/pag404.component';
 import { HistoriaComponent } from './body/historia/historia.component';
-import { AtlaComponent } from './body/historia/atla/atla.component';
-import { TlkComponent } from './body/historia/tlk/tlk.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { HistoriaModelComponent } from './body/historia/historia-model/historia-model.component';
 
@@ -39,9 +37,7 @@ import { HistoriaModelComponent } from './body/historia/historia-model/historia-
     HomeComponent,
     Pag404Component,
     HistoriaComponent,
-    AtlaComponent,
-    TlkComponent,
-    RodapeComponent,
+   RodapeComponent,
     HistoriaModelComponent
   ],
   imports: [
