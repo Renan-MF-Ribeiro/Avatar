@@ -83,7 +83,7 @@ export class Historias{
           </head>
             
             <div data-spy="scroll" data-target="#navbar-example3" data-offset="0">
-            <h1 id="História do Mundo do Avatar"> História do Mundo do Avatar</h1>
+            <h1 id="mundoavatar#História do Mundo do Avatar"> História do Mundo do Avatar</h1>
             <p>O mundo tem uma extensa história que remonta a mais de vinte mil anos. Este artigo lista eventos históricos em uma linha do tempo. A história deste mundo pode ser dividida em duas partes, a época anterior ao Avatar e a época do Avatar.
                 Antes da criação do Avatar, as tartarugas-leões serviam como protetores da humanidade, permitindo aos humanos erguer cidades sobre suas carapaças. Sempre que os habitantes de suas cidades se aventuravam na Selva Espiritual, as
                 criaturas conferiam ao povo a capacidade de dobrar o elemento ao qual a tartaruga estava associada; o poder deveria ser devolvido após sua reentrada na cidade.</p>
@@ -92,7 +92,7 @@ export class Historias{
                 de eventos importantes ocorreram durante o tempo da Equipe Avatar de Korra, incluindo a Revolução Anti-dobra, os eventos em torno da Convergência Harmônica, a insurreição do Lótus Vermelho, a formação do Império da Terra e a Crise
                 dos Evacuados. Algum tempo antes da era de Korra, o termo "moderno" foi usado para descrever como o mundo entrou em uma era industrial. </p>
             <hr>
-            <h2 id="Datas">Datas</h2>
+            <h2 id="mundoavatar#Datas">Datas</h2>
             <p> Uma questão importante para o mundo Avatar é como rastrear sua extensa história. Tradicionalmente, a história pode ser registrada pelo chamado "calendário Avatar", que atribui a cada Avatar uma "era" e, em seguida, rastreia os dias
                 desde seu nascimento. Por exemplo, o segundo dia da primeira visita de Kyoshi à Nação do Fogo foi "seis mil quatrocentos e cinquenta e quatro dias da Era de Kyoshi". No entanto, o calendário Avatar era considerado arcaico e trabalhoso
                 para usar pela maioria das pessoas, e normalmente era usado apenas por historiadores e para rituais espirituais na época do Avatar Kyoshi.</p>
@@ -160,7 +160,7 @@ export class Historias{
                         Os dias podem ser contados quando eles caem na vida de um Avatar, como Rangi se referindo a um dia específico como "seis mil quatrocentos e cinquenta e quatro dias da Era de Kyoshi". Este método de contagem de dias foi considerado arcaico durante a vida
                         de Kyoshi, e usado apenas por historiadores educados ou para certas cerimônias espirituais.</p>
 
-                    <h2 id="linha-tempo">Linha do tempo</h2>
+                    <h2 id="mundoavatar#Linha do Tempo">Linha do tempo</h2>
                     <hr>
                     <h3>Antes da Era de Raava (antes de 19.829 AG)</h3>
                     <li>Tui e La se manifestam no mundo físico, assumindo formas mortais como peixes koi.</li>
@@ -237,12 +237,12 @@ export class Historias{
                     <li>Avatar Szeto nasce na Nação do Fogo. Ele se torna um oficial no governo da Nação do Fogo, põe fim ao conflito entre os nobres clãs e restaura a economia da nação, fazendo isso de dentro do sistema ao se tornar um dos administradores
                         mais eficazes de sua história. Isso leva a uma era de estabilidade política e prosperidade econômica na Nação do Fogo.</li>
                     <li>O espírito Lady Tienhai se apaixona e se casa com o governante de sua cidade. Ela assume uma forma mortal e, eventualmente, morre, despertando a raiva do espírito General Old Iron.</li>
-                    <li id="Avatar Yangchen"> Avatar Yangchen dos Nômades do Ar nasce no Templo do Ar Ocidental, após a morte de Szeto. Seu reinado como Avatar é pacífico, devido à sua dedicação feroz em manter o equilíbrio e servir o mundo. Em uma de suas primeiras missões,
+                    <li id="mundoavatar#Avatar Yangchen"> Avatar Yangchen dos Nômades do Ar nasce no Templo do Ar Ocidental, após a morte de Szeto. Seu reinado como Avatar é pacífico, devido à sua dedicação feroz em manter o equilíbrio e servir o mundo. Em uma de suas primeiras missões,
                         ela chega a um acordo com Old Iron, parando sua violência, prometendo a ele que a cidade velha de Tienhai está abandonada. Mais tarde, ela assina um tratado com a Quinta Nação para proteger o Reino da Terra do sul. Yangchen
                         também faz vários acordos com outros espíritos, mas muitos desses pactos são quebrados por humanos após sua morte, resultando em vários espíritos que se tornam sombrios e vingativos.</li>
                     <br><h4>Em algum momento do século 4 AG</h4>
                     <li>O 40º Rei da Terra foi assassinado por Tieguai, o Imortal.</li>
-                    <br><h4 id="Avatar Kuruk"> 345 AG - Ano das Ovelhas</h4>
+                    <br><h4 id="mundoavatar#Avatar Kuruk"> 345 AG - Ano das Ovelhas</h4>
                     <li>O Avatar Yangchen morre; e o Avatar Kuruk nasce na Tribo da Água do Norte.</li>
                     <li>Nasce Jianzhu.</li>
                     <li>Kelsang nasce.</li>
@@ -252,7 +252,7 @@ export class Historias{
                         duradoura, resultando em ele negligenciando muitas de suas funções habituais.</li>
                     <li>Avatar Kuruk tenta matar Koh, o Ladrão de Rosto, como vingança por ter roubado o rosto de sua noiva Ummi. É confuso colocar esse evento em ordem cronológica, como se a descrição de Koh do evento fosse considerada literalmente,
                         teria acontecido 800-700 AG, mais de trezentos anos antes do nascimento de Kuruk. No entanto, sabe-se que o tempo passa de forma diferente no Mundo Espiritual.</li>
-                    <h3 id="Avatar Kyoshi"> A Era de Kyoshi (312 - 82 AG) </h3>
+                    <h3 id="mundoavatar#Avatar Kyoshi"> A Era de Kyoshi (312 - 82 AG) </h3>
                     <br><h4>312 AG - Ano do Dragão</h4>
                     <li>Avatar Kuruk morre; O Avatar Kyoshi do Reino da Terra é filho de Jesa e Hark.</li>
                     <li>Após a morte de Kuruk, o Reino da Terra sofre de crescente instabilidade, à medida que os piratas da Quinta Nação comandados por Tulok atacam sua costa sul e o levante Pescoço Amarelo eclode.</li>
@@ -318,7 +318,7 @@ export class Historias{
                     <br><h4>Em algum momento entre 270 e 82 AG</h4>
                     <li>A filha de Kyoshi, Koko, a sucede como governadora da Ilha de Kyoshi. </li>
                     <h3>Prelúdio da Guerra dos Cem Anos</h3>
-                    <br><h4 id="Avatar Roku">(82-0 AG) 82 AG - Ano do Cavalo</h4>
+                    <br><h4 id="mundoavatar#Avatar Roku">(82-0 AG) 82 AG - Ano do Cavalo</h4>
                     <li>Avatar Kyoshi morre aos 230 anos; Nasce o Avatar Roku da Nação do Fogo.</li>
                     <li>O Senhor do Fogo Sozin nasce no mesmo dia que Roku.</li>
                     <br><h4>66 AG - Ano do Cão</h4>
@@ -334,7 +334,7 @@ export class Historias{
                     <br><h4>37 AG - Ano do Coelho</h4>
                     <li>Avatar Roku descobre as primeiras colônias da Nação do Fogo no Reino da Terra e confronta o Senhor do Fogo Sozin. </li>
                     <li>Roku e Sozin se envolvem na batalha, resultando na destruição de parte do Palácio Real da Nação do Fogo por Roku.</li>
-                    <br><h4 id="Avatar Aang"> 12 AG - Ano do Dragão</h4>
+                    <br><h4 id="mundoavatar#Avatar Aang"> 12 AG - Ano do Dragão</h4>
                     <li>Avatar Roku é morto enquanto lutava contra uma erupção vulcânica aos setenta anos.</li>
                     <li>Nasce o Avatar Aang dos Nômades do Ar.</li>
                     <li>Nasce Bumi de Omashu.</li>
@@ -445,7 +445,7 @@ export class Historias{
                     <li>Avatar Aang derrota Ozai através do uso do Estado Avatar e usa a dobra de energia para retirar sua dobra de fogo.</li>
                     <li>Rei Phoenix Ozai está preso por vários crimes de guerra.</li>
                     <li>O Príncipe Zuko ascende ao trono como Senhor do Fogo, jurando às nações que dedicará seu governo à reconstrução do mundo com a ajuda do Avatar.</li>
-                    <h3 id="posGuerra">Pós-Guerra dos Cem Anos (100 AG - 171 DG)</h3>
+                    <h3 id="mundoavatar#Pós-Guerra dos Cem Anos">Pós-Guerra dos Cem Anos (100 AG - 171 DG)</h3>
                     <br><h4>100 DG - Ano do Macaco</h4>
                     <li>O Movimento de Restauração da Harmonia é lançado para remover as colônias da Nação do Fogo do Reino da Terra.</li>
                     <br><h4>101 DG - Ano do Galo</h4>
@@ -510,7 +510,7 @@ export class Historias{
                     <br><h4>152 DG - Ano do Rato</h4>
                     <li> Mako nasceu, filho de San e Naoki.</li>
                     <li> Asami Sato nasceu, filho de Hiroshi Sato e Yasuko.</li>
-                    <br><h4 id="Avatar Korra">153 DG - Ano do Boi</h4>
+                    <br><h4 id="mundoavatar#Avatar Korra">153 DG - Ano do Boi</h4>
                     <li>Avatar Aang morre; O Avatar Korra da Tribo da Água do Sul é filho de Tonraq e Senna.</li>
                     <li>Depois de viajar ao redor do mundo e se tornar uma curandeira renomada por seus próprios méritos, Kya retorna à Tribo da Água do Sul para cuidar de sua mãe em luto.</li>
                     <li>Nasce Hong Li.</li>
@@ -561,7 +561,7 @@ export class Historias{
                     <li>Unalaq liberta Vaatu e se torna o primeiro Dark Avatar após se fundir com o espírito das trevas. Ele expurga Raava de Korra e destrói o espírito de luz.</li>
                     <li>Unalaq morre depois que o espírito de Vaatu é purificado por Korra usando a própria técnica de limpeza espiritual de Unalaq.</li>
                     <li>Korra começa o Ciclo de Avatar novamente, embora ela não tenha mais uma conexão com os Avatares anteriores.</li>
-                    <h3 id="Segunda Era Avatar">Segunda Idade do Avatar (171 AG - Presente)</h3>
+                    <h3 id="mundoavatar#Segunda Era Avatar">Segunda Idade do Avatar (171 AG - Presente)</h3>
                     <br><h4>171 AG - Ano das Ovelhas</h4>
                     <li>Korra deixa os portais espirituais abertos e renuncia o papel do Avatar como a ponte entre os dois mundos, assumindo um papel de pacificador mais geral. [166]
                     </li>
@@ -625,19 +625,15 @@ export class Historias{
         },
         {
             id:'#avatarkorra',
-            titulo: 'História do Mundo do Avatar',
+            titulo: 'A lenda de Korra',
             subtitulo:"",
             menu:[
-                'História do Mundo do Avatar',
-                'Datas',
-                'Linha do Tempo',
-                'Avatar Yangchen',
-                'Avatar Kuruk',
-                'Avatar Kyoshi',
-                'Avatar Roku',
-                'Avatar Aang',
-                'Avatar Korra',
-                'Segunda Era Avatar'
+                'A lenda de Korra',
+                'Livro Um: Ar',
+                'Livro Dois: Espíritos',
+                'Livro três: Mudança',
+                'Livro Quatro: Equilíbrio'
+                
             ],
             corpo:`<head>
             <style type="text/css">
@@ -668,7 +664,8 @@ export class Historias{
             
             p {
                 font-size: 16px;
-                padding: 10px;
+                padding-left: 10px;
+                padding-right: 10px;
                 z-index: 1;
             }
             
@@ -704,85 +701,39 @@ export class Historias{
           </head>
             
             <div data-spy="scroll" data-target="#navbar-example3" data-offset="0">
-            <h1 id="avatarkorra#História do Mundo do Avatar"> História do Mundo do Avatar</h1>
-            <p>O mundo tem uma extensa história que remonta a mais de vinte mil anos. Este artigo lista eventos históricos em uma linha do tempo. A história deste mundo pode ser dividida em duas partes, a época anterior ao Avatar e a época do Avatar.
-                Antes da criação do Avatar, as tartarugas-leões serviam como protetores da humanidade, permitindo aos humanos erguer cidades sobre suas carapaças. Sempre que os habitantes de suas cidades se aventuravam na Selva Espiritual, as
-                criaturas conferiam ao povo a capacidade de dobrar o elemento ao qual a tartaruga estava associada; o poder deveria ser devolvido após sua reentrada na cidade.</p>
-            <p> No entanto, após a criação do Avatar, as tartarugas leões renunciaram a seus papéis como protetores da humanidade, e as pessoas foram deixadas para fazer suas próprias casas espalhadas pelo mundo, o que acabou levando à divisão do
-                mundo em quatro nações. O evento histórico mais notável que ocorreu durante as aventuras da Equipe Avatar foi a Guerra dos Cem Anos, o subsequente Movimento de Restauração da Harmonia, e o Projeto de Reconstrução do Sul. Uma série
-                de eventos importantes ocorreram durante o tempo da Equipe Avatar de Korra, incluindo a Revolução Anti-dobra, os eventos em torno da Convergência Harmônica, a insurreição do Lótus Vermelho, a formação do Império da Terra e a Crise
-                dos Evacuados. Algum tempo antes da era de Korra, o termo "moderno" foi usado para descrever como o mundo entrou em uma era industrial. </p>
+            <h1 id="avatarkorra#A lenda de Korra"> <b>A lenda de Korra</b></h1>
+            <div class="row"><div class="col-8">
+            <p>A lenda de Korra é uma série de televisão americana de animação ambientada no universo Avatar como uma sequência de Avatar: O Último Mestre do Ar. O episódio de estreia foi ao ar na Nickelodeon em 14 de abril de 2012. No entanto, os dois primeiros episódios foram lançados online de 24 a 25 de março de 2012 e estavam disponíveis em alta definição gratuitamente no iTunes. A série teve 52 episódios, terminando sua exibição em 19 de dezembro de 2014.</p></div>
+            <div class="col-4"><img src="assets/historia/Korra-logo.png" width=110%"></div></div><p>
+            A série começa setenta anos após o final do arco de história Avatar: O Último Mestre do Ar com novos personagens e cenários. A protagonista da nova série, Korra, o Avatar depois de Aang, é uma jovem rebelde e cabeça quente da Tribo da Água do Sul que está "pronta para enfrentar o mundo". A série segue Korra enquanto ela enfrenta os difíceis desafios, deveres e responsabilidades que vêm com ser o Avatar.
             <hr>
-            <h2 id="Datas">Datas</h2>
-            <p> Uma questão importante para o mundo Avatar é como rastrear sua extensa história. Tradicionalmente, a história pode ser registrada pelo chamado "calendário Avatar", que atribui a cada Avatar uma "era" e, em seguida, rastreia os dias
-                desde seu nascimento. Por exemplo, o segundo dia da primeira visita de Kyoshi à Nação do Fogo foi "seis mil quatrocentos e cinquenta e quatro dias da Era de Kyoshi". No entanto, o calendário Avatar era considerado arcaico e trabalhoso
-                para usar pela maioria das pessoas, e normalmente era usado apenas por historiadores e para rituais espirituais na época do Avatar Kyoshi.</p>
-            <p>Para esclarecer a linha do tempo freqüentemente confusa no mundo Avatar, esta linha do tempo e outros artigos, em vez disso, datam os eventos como anos antes do Genocídio dos Nômades do Ar (AG) e anos depois do genocídio (DG). 0 DG
-                é o ano em que o Senhor do Fogo Sozin usou o poder do Cometa de Sozin para iniciar a Guerra dos Cem Anos com o Genocídio dos Nômades do Ar e serve como uma época para o sistema de datas.</p>
-            <p>Outras notas sobre o sistema: 0 DG começou no inverno, mas com a primavera chegando. Isso satisfaz tanto o calendário solar quanto o calendário lunar chinês. O cometa de Sozin chegou no final do oitavo mês (solar ou chinês) daquele
-                ano, a fim de satisfazer o termo "fim do verão" usado por Roku.</p>
-            <p>Aang emergiu do iceberg durante o inverno no final de 99 DG e as batalhas finais da guerra ocorreram no oitavo mês de 100 DG. Quase todos os personagens atingiram suas idades atuais em 99 DG, já que nenhum aniversário, exceto o de
-                Yue, foi mostrado na série.Por exemplo, Katara completou quatorze anos em 99 DG e estava com quase quinze no final da guerra. Os únicos aniversários conhecidos que ocorreram são os de Yue, que fez dezesseis anos no início dos 100
-                anos, no final do inverno, e do filho de Iroh, Lu Ten, que tinha idade desconhecida quando foi morto durante a guerra, mas cujo aniversário foi durante a primavera. Como o aniversário de Toph é desconhecido, Toph poderia ter feito
-                12 anos em 99 DG ou 100 DG. Portanto, seu dado ano de nascimento (88 DG) pode ser impreciso.</p>
-            <p>A datação de alguns dos eventos entre o despertar de Aang na Tribo da Água do Sul e a chegada de Aang na Tribo da Água do Norte pode ser imprecisa, pois não se sabe se o calendário solar ou o calendário lunar chinês está sendo usado.
-            </p>
-            <h2>Zodíaco chinês</h2>
-            <p>O zodíaco chinês também está incluído. Ele gira em torno do ciclo matemático de doze animais. Os animais são listados aqui em ordem.</p>
-            <table width="50%" style="padding: 20px;">
-                <tbody>
-                    <tr>
-                        <td width="50%">
-                            1. Rato<br> 2. Boi<br> 3. Tigre<br> 4. Coelho<br> 5. Dragão<br> 6. Cobra<br>
-                        </td>
-                        <td>
-                            7. Cavalo<br> 8. Ovelha<br> 9. Macaco<br> 10. Galo<br> 11. Cachorro<br> 12. Porco<br>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+            
+             <h1 id="avatarkorra#Livro Um: Ar">Livro Um: Ar (气)</h1>
+             <div class="row">
+             <div class="col-4"><img src="assets/historia/cidade-republica.png" width=110%"></div>
+             <div class="col-8">
+             <p>Após a conclusão da Guerra dos Cem Anos, Avatar Aang e o senhor do fogo Zuko reuniram pessoas das quatro nações e fundaram a República das Nações Unidas, com sua capital sendo uma cidade república, uma grande "metrópole movida por tecnologia do tipo steampunk". como carros e motocicletas. Aang e Katara tiveram três filhos, o mais novo deles era Tenzin, o único dobrador de ar dos três irmãos.</p></div></div><p> Enquanto isso, Toph Beifong viajou extensivamente para ensinar dobra de metal para outros dobradores de terra. Após a morte de Aang em 153 AG, ele reencarnou como uma garota da Tribo da Água do Sul chamada Korra.</p>
+            <p>
+            Atualmente, setenta anos após o fim da Guerra dos Cem Anos, Korra, uma rebelde garota de dezessete anos, está pronta para completar seu treinamento de dobra de ar e cumprir seu papel como Avatar. Ela já dominou a dobra de água, dobra de terra e dobra de fogo neste ponto.
+            </p><p>No início da série, Korra viaja para a Cidade da República e começa seu treinamento de dobra de ar com Tenzin. O próprio Tenzin é casado com Pema. Ele tem duas filhas, Jinora, uma "traça de livros", e Ikki, uma "faladeira", enquanto Meelo, seu primeiro filho, foi seu único filho até o décimo episódio, "Virando as Marés", quando Pema deu à luz outro menino chamado Rohan.</p>
+            <div class="row"><div class="col-7">
+            <p>
+            No entanto, a cidade da república não é o que Korra imaginou que fosse. Anti-dobradores chamados de "Igualitarios", que se opõem às artes de dobrar, utilizam técnicas como o bloqueio de chi para promover seus objetivos de revolução, liderados por Amon. Korra deve lutar contra o crime desenfreado e a Revolução Anti-Dobra, ajudada por dois irmãos, Mako, um dobrador de fogo, e Bolin, um dobrador de terra. Ela também é acompanhada por seu companheiro animal, Naga, e a Força Policial da Cidade da República, que é liderada pela filha de Toph, Lin Beifong. </p></div>
+            <div class="col-5"><img src="assets/historia/revolucao.jpg" width=100%"></div></div>
+            <hr>
 
-            <br>
-            <h2>Nomes de era</h2>
-            <p>No segundo anel do calendário de Wan Shi Tong, dezesseis nomes de era são visíveis. No entanto, não está claro como eles são usados ​​na datação do mundo Avatar.A invasão da Nação do Fogo ocorreu no Dia do Sol Negro durante a era Ri
-                Wu, enquanto um eclipse anterior referido como "o dia mais escuro da história da Nação do Fogo" ocorreu na era Pei Zhi.
-                <dl>
-                    <dd style="padding-left: 50px; font-size: 12px;"><b>Nota: </b>Essas definições são baseadas de forma muito vaga nos caracteres, pois muitas das combinações são difíceis de entender. Alguns dos caracteres não são mais usados ​​no chinês moderno</dd>
-                </dl>
-                <table>
-                    <tbody>
-                        <tr>
-                            <td width="50%">
-                                1. Ri Wu <br>(氜 武, "Militares superiores")<br> 2. Chun Tai <br>(淳 泰, "Honesto ebrxaltado")<br> 3. Zhi Yuan <br>(坧 元, "Fundação ebrrigem")<br> 4. Jiong Yu <br>(烱 裕, "Abundância brilhante")<br> 5. Ri Long <br>(氜 隆,
-                                "Grande prosperidade")
-                                <br> 6. Yi Wen <br>(溢 文, "Cultura transbordando")<br> 7. Pei Zhi <br>(培 治. "Regra debrultivo")<br> 8. Kun De <br>(焜 徳, "virtude resplandecente")<br>
-                            </td>
-                            <td>
-                                9. Yun Zhen <br>(氲 貞, "Lealdade florescente")<br> 10. Ru Ming <br>(渪 明, "Imerso no brilho")<br> 11. Yao Ping <br>(堯 平, "Paz do Imperador Yao")<br> 12. Yang Chong <br>(煬 崇, "Honra ardente")<br> 13. Fen An <br>(氛
-                                安, "Paz nublada")
-                                <br> 14. Zhang Shun <br>(漳 順, "Suave como o rio Zhang")<br> 15. Yuan Zheng <br>(垣 正, "Bastião da justiça")<br> 16. Zhuo Guang <br>(焯 光 "Luz brilhante")<br>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
+            <h1 id="avatarkorra#Livro Dois: Espíritos">Livro Dois: Espíritos (神靈)</h1>
+            <p>
+            Seis meses após os eventos da Revolução Anti-Dobra, Korra, tendo aprendido a dobrar todos os quatro elementos e alcançado o status de um Avatar totalmente realizado, deve mais uma vez se tornar a aluna quando ela mergulha no reino dos espíritos sob os ensinamentos de seu tio paterno e tutor. Agora aprendendo as profundezas de suas conexões espirituais, Korra logo descobre que a luz não pode existir sem a escuridão, e em um ciclo interminável de criação e destruição, apenas ela tem a habilidade de manter o equilíbrio no mundo.</p>
 
-                <p>
-                    O primeiro caractere nessas palavras de dois caracteres tem um radical (um dos 214 elementos ideográficos na escrita chinesa usado em combinação com a fonética para formar milhares de caracteres diferentes) que representa um dos quatro elementos e gira
-                    na ordem ar, água , terra e fogo.
-                    <li>气 - o radical "ar", usado em caracteres relacionados ao gás </li>
-                    <li>氵 - o radical "três gotas de água", usado em caracteres relacionados ao líquido </li>
-                    <li>土 - o radical "terra", usado em caracteres relacionados a sujeira, terra, mineral, etc.</li>
-                    <li>火 - o radical "fogo", usado em personagens relacionados a fogo, calor, etc.</li>
-                    <p>A atual era Ri Wu, por exemplo, usa o radical de ar (气). Este sistema pode, portanto, ser baseado no Ciclo de Avatar, com a era mudando com a morte de cada Avatar. Se este for o caso, Aang estaria vivendo durante a era Ri Wu
-                        (militar superior), Roku durante a era Zhuo Guang (luz brilhante), Kyoshi durante a era Yuan Zheng (bastião da retidão) e assim por diante. Isso também significaria que Korra estaria vivendo durante a era Chun Tai (honesta
-                        e exaltada).</p>
-                    <h2>Calendário de Avatar tradicional</h2>
-                    <p>
-                        Os dias podem ser contados quando eles caem na vida de um Avatar, como Rangi se referindo a um dia específico como "seis mil quatrocentos e cinquenta e quatro dias da Era de Kyoshi". Este método de contagem de dias foi considerado arcaico durante a vida
-                        de Kyoshi, e usado apenas por historiadores educados ou para certas cerimônias espirituais.</p>
+            <h1 id="avatarkorra#Livro três: Mudança">Livro três: Mudança (易)</h1>
+            <p>            
+            Com uma mudança na energia do mundo devido à Convergência Harmônica, a capacidade de dobrar o ar ressurgiu em alguns não dobradores, levando Korra e seus aliados a vasculhar o Reino da Terra em busca desses novos dobradores para oferecer treinamento e orientação. No entanto, enquanto a Nação do Ar está sendo lentamente reconstruída, Zaheer e seus companheiros cúmplices do Lótus Vermelho escapam de suas respectivas prisões e se propõem a derrubar todas as nações e sucumbir o mundo à anarquia. A crença deles de que a desordem é a ordem natural representa uma ameaça letal para Korra e ela deve lutar para salvar não apenas o equilíbrio das nações no mundo, mas também ela mesma e o Ciclo Avatar.</p>
 
-
-        </div>
+            <h1 id="avatarkorra#Livro Quatro: Equilíbrio">Livro Quatro: Equilíbrio (平衡)</h1>
+            <p>
+            Após a insurreição do Lótus Vermelho, Korra partiu para a Tribo da Água do Sul para se recuperar e o Time Avatar seguiu em frente com suas vidas. Três anos depois, em 174 AG, a ex-capitã da guarda de Zaofu, Kuvira, estava viajando pelo Reino da Terra com Bolin, Varrick e seu noivo, Baatar Jr., em uma missão para reunir a nação depois que ela caiu em desordem após a morte da rainha Hou-Ting. Quando ela deveria abdicar do controle para o recém-coroado Rei da Terra Wu, ela denunciou sua autoridade e se autoproclamou governante do Império da Terra. Enquanto isso, Korra conseguiu se curar fisicamente, embora ela ainda esteja enfrentando um bloqueio emocional causado por traços residuais de mercúrio. Com os problemas chegando ao Reino da Terra, a Equipe Avatar se dividiu e o paradeiro do Avatar é desconhecido, a busca pelo equilíbrio começa novamente.</p>
+            
             `
 
         },
